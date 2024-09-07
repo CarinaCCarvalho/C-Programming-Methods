@@ -16,3 +16,6 @@ elements of a matrix and, after obtaining them, write them in a new file
   Objective: To read the number of rows, the number of columns and the number of nonzero elements of a matrix and the vectors Ax, Ac and Ap from a given file. 
 number of nonzero elements of a matrix and the vectors Ax, Ac and Ap. 
 in dense form and write it to a new file.
+
+#Projeto3.c
+The aim of this project is to sort the runners' data in a non by the final race time of the athletes.
