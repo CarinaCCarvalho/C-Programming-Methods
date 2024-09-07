@@ -1,4 +1,4 @@
-#Create a list of athletes and display sorted by male and female
+# The aim of this project is to sort the runners' data in a non by the final race time of the athletes.
 
 
 #include <stdio.h>
